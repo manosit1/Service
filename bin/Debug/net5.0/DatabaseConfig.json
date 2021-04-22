@@ -1,6 +1,0 @@
-{
-    "ConnectStringDeveloper":"data source=.; database=news; integrated security=true;",
-    "useDeveloper":true,
-    "ConnectStringProduction":"data source=.; database=news; integrated security=true;",
-    "useProduction":false
-}
